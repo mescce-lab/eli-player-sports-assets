@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "batch": "serie-a-official-source-audit-01",
+  "status": "source_audit",
+  "entries": [
+    {
+      "id": "atletico-mg",
+      "official_source": "https://atletico.com.br/institucional/identidade/simbolos-e-marcas/",
+      "evidence": "official identity page exposes shield evolution and downloads",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "palmeiras",
+      "official_source": "https://www.palmeiras.com.br/escudos/",
+      "evidence": "official page identifies 1959-present badge",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "botafogo-rj",
+      "official_source": "https://botafogo.com.br/simbolos",
+      "evidence": "official symbols page describes current shield",
+      "source_verified": true,
+      "asset_verified": false
+    }
+  ],
+  "rule": "source_verified does not mean PNG incorporated; asset_verified becomes true only after local transparent asset is committed and visually audited"
+}
