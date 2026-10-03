@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "scope": "serie_d",
+  "batch": 1,
+  "count": 20,
+  "warning": "inventario incremental; confirmar participantes e identidade na fonte oficial antes de marcar verified",
+  "teams": [
+    {
+      "id": "asa",
+      "name": "ASA",
+      "state": "AL",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/asa.png",
+      "verified_asset": false
+    },
+    {
+      "id": "agremiacao-sportiva-arapiraquense",
+      "name": "ASA",
+      "state": "AL",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/agremiacao-sportiva-arapiraquense.png",
+      "verified_asset": false
+    },
+    {
+      "id": "brasiliense",
+      "name": "Brasiliense",
+      "state": "DF",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/brasiliense.png",
+      "verified_asset": false
+    },
+    {
+      "id": "ceilandia",
+      "name": "Ceilândia",
+      "state": "DF",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/ceilandia.png",
+      "verified_asset": false
+    },
+    {
+      "id": "ferroviario-ce",
+      "name": "Ferroviário",
+      "state": "CE",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/ferroviario-ce.png",
+      "verified_asset": false
+    },
+    {
+      "id": "imperatriz",
+      "name": "Imperatriz",
+      "state": "MA",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/imperatriz.png",
+      "verified_asset": false
+    },
+    {
+      "id": "manaus",
+      "name": "Manaus",
+      "state": "AM",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/manaus.png",
+      "verified_asset": false
+    },
+    {
+      "id": "manauara",
+      "name": "Manauara",
+      "state": "AM",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/manauara.png",
+      "verified_asset": false
+    },
+    {
+      "id": "moto-club",
+      "name": "Moto Club",
+      "state": "MA",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/moto-club.png",
+      "verified_asset": false
+    },
+    {
+      "id": "porto-velho",
+      "name": "Porto Velho",
+      "state": "RO",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/porto-velho.png",
+      "verified_asset": false
+    },
+    {
+      "id": "rio-branco-es",
+      "name": "Rio Branco-ES",
+      "state": "ES",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/rio-branco-es.png",
+      "verified_asset": false
+    },
+    {
+      "id": "sergipe",
+      "name": "Sergipe",
+      "state": "SE",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/sergipe.png",
+      "verified_asset": false
+    },
+    {
+      "id": "treze",
+      "name": "Treze",
+      "state": "PB",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/treze.png",
+      "verified_asset": false
+    },
+    {
+      "id": "tuna-luso",
+      "name": "Tuna Luso",
+      "state": "PA",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/tuna-luso.png",
+      "verified_asset": false
+    },
+    {
+      "id": "uniao-rondonopolis",
+      "name": "União Rondonópolis",
+      "state": "MT",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/uniao-rondonopolis.png",
+      "verified_asset": false
+    },
+    {
+      "id": "america-pe",
+      "name": "América-PE",
+      "state": "PE",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/america-pe.png",
+      "verified_asset": false
+    },
+    {
+      "id": "joinville",
+      "name": "Joinville",
+      "state": "SC",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/joinville.png",
+      "verified_asset": false
+    },
+    {
+      "id": "inter-de-limeira",
+      "name": "Inter de Limeira",
+      "state": "SP",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/inter-de-limeira.png",
+      "verified_asset": false
+    },
+    {
+      "id": "agua-santa",
+      "name": "Água Santa",
+      "state": "SP",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/agua-santa.png",
+      "verified_asset": false
+    },
+    {
+      "id": "sao-jose-rs",
+      "name": "São José-RS",
+      "state": "RS",
+      "competition": [
+        "serie_d_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-d/sao-jose-rs.png",
+      "verified_asset": false
+    }
+  ]
+}
