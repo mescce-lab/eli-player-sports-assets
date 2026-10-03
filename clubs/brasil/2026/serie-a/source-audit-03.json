@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "batch": "serie-a-official-source-audit-03",
+  "status": "source_audit",
+  "entries": [
+    {
+      "id": "athletico-pr",
+      "official_source": "https://www.athletico.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "bahia",
+      "official_source": "https://www.esporteclubebahia.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "chapecoense",
+      "official_source": "https://chapecoense.com/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "coritiba",
+      "official_source": "https://www.coritiba.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "mirassol",
+      "official_source": "https://www.mirassolfc.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "red-bull-bragantino",
+      "official_source": "https://www.redbullbragantino.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "remo",
+      "official_source": "https://clubedoremo.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "vasco",
+      "official_source": "https://vasco.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    },
+    {
+      "id": "vitoria",
+      "official_source": "https://ecvitoria.com.br/",
+      "source_verified": true,
+      "asset_verified": false
+    }
+  ],
+  "rule": "Audit source provenance first; local asset remains unverified until committed and visually checked."
+}
