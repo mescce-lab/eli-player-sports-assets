@@ -3,12 +3,13 @@
   "updated": "2026-10-03",
   "teams": {
     "flamengo": {
-      "file": "teams/flamengo.svg",
+      "file": null,
       "entity": "Clube de Regatas do Flamengo",
       "source": "Wikimedia Commons: File:Flamengo braz logo.svg",
       "license": "Public domain (simple geometry/text); trademark notice",
-      "status": "approved-copyright-trademark-noted",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg"
+      "status": "remote-source-only",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg",
+      "note": "Arquivo local ainda não incorporado; usar catalog.json/fallback até existir cópia verificada."
     }
   },
   "flags": {
@@ -24,12 +25,13 @@
       "alias": "inglaterra"
     },
     "croacia": {
-      "file": "flags/croacia.svg",
+      "file": null,
       "entity": "Croatia",
       "source": "Wikimedia Commons: File:Flag of Croatia.svg",
       "license": "Public domain / CC0; official insignia restrictions may apply",
-      "status": "approved",
-      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+      "status": "remote-source-only",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "note": "Arquivo local ainda não incorporado; seleção usa fonte externa/fallback até existir cópia verificada."
     },
     "croatia": {
       "alias": "croacia"
