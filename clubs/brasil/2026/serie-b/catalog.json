@@ -1,0 +1,295 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "scope": "serie_b",
+  "count": 20,
+  "policy": {
+    "ambiguous_names": "require_state_or_competition_context",
+    "asset_status": "unverified_until_png_audited"
+  },
+  "teams": [
+    {
+      "id": "america-mg",
+      "name": "América-MG",
+      "state": "MG",
+      "aliases": [
+        "América-MG",
+        "America-MG",
+        "América Mineiro",
+        "America Mineiro"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/america-mg.png",
+      "verified_asset": false
+    },
+    {
+      "id": "athletic-mg",
+      "name": "Athletic Club",
+      "state": "MG",
+      "aliases": [
+        "Athletic",
+        "Athletic Club",
+        "Athletic-MG"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/athletic-mg.png",
+      "verified_asset": false
+    },
+    {
+      "id": "atletico-go",
+      "name": "Atlético-GO",
+      "state": "GO",
+      "aliases": [
+        "Atlético-GO",
+        "Atletico-GO",
+        "Atlético Goianiense",
+        "Atletico Goianiense"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/atletico-go.png",
+      "verified_asset": false
+    },
+    {
+      "id": "avai",
+      "name": "Avaí",
+      "state": "SC",
+      "aliases": [
+        "Avaí",
+        "Avai"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/avai.png",
+      "verified_asset": false
+    },
+    {
+      "id": "botafogo-sp",
+      "name": "Botafogo-SP",
+      "state": "SP",
+      "aliases": [
+        "Botafogo-SP",
+        "Botafogo Ribeirão Preto"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/botafogo-sp.png",
+      "verified_asset": false
+    },
+    {
+      "id": "brusque",
+      "name": "Brusque",
+      "state": "SC",
+      "aliases": [
+        "Brusque"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/brusque.png",
+      "verified_asset": false
+    },
+    {
+      "id": "ceara",
+      "name": "Ceará",
+      "state": "CE",
+      "aliases": [
+        "Ceará",
+        "Ceara"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/ceara.png",
+      "verified_asset": false
+    },
+    {
+      "id": "crb",
+      "name": "CRB",
+      "state": "AL",
+      "aliases": [
+        "CRB",
+        "Clube de Regatas Brasil"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/crb.png",
+      "verified_asset": false
+    },
+    {
+      "id": "criciuma",
+      "name": "Criciúma",
+      "state": "SC",
+      "aliases": [
+        "Criciúma",
+        "Criciuma"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/criciuma.png",
+      "verified_asset": false
+    },
+    {
+      "id": "cuiaba",
+      "name": "Cuiabá",
+      "state": "MT",
+      "aliases": [
+        "Cuiabá",
+        "Cuiaba"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/cuiaba.png",
+      "verified_asset": false
+    },
+    {
+      "id": "goias",
+      "name": "Goiás",
+      "state": "GO",
+      "aliases": [
+        "Goiás",
+        "Goias"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/goias.png",
+      "verified_asset": false
+    },
+    {
+      "id": "juventude",
+      "name": "Juventude",
+      "state": "RS",
+      "aliases": [
+        "Juventude"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/juventude.png",
+      "verified_asset": false
+    },
+    {
+      "id": "londrina",
+      "name": "Londrina",
+      "state": "PR",
+      "aliases": [
+        "Londrina",
+        "Londrina-PR"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/londrina.png",
+      "verified_asset": false
+    },
+    {
+      "id": "novorizontino",
+      "name": "Novorizontino",
+      "state": "SP",
+      "aliases": [
+        "Novorizontino",
+        "Grêmio Novorizontino",
+        "Gremio Novorizontino"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/novorizontino.png",
+      "verified_asset": false
+    },
+    {
+      "id": "operario-pr",
+      "name": "Operário-PR",
+      "state": "PR",
+      "aliases": [
+        "Operário-PR",
+        "Operario-PR",
+        "Operário Ferroviário",
+        "Operario Ferroviario"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/operario-pr.png",
+      "verified_asset": false
+    },
+    {
+      "id": "paysandu",
+      "name": "Paysandu",
+      "state": "PA",
+      "aliases": [
+        "Paysandu"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/paysandu.png",
+      "verified_asset": false
+    },
+    {
+      "id": "ponte-preta",
+      "name": "Ponte Preta",
+      "state": "SP",
+      "aliases": [
+        "Ponte Preta"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/ponte-preta.png",
+      "verified_asset": false
+    },
+    {
+      "id": "sampaio-correa",
+      "name": "Sampaio Corrêa",
+      "state": "MA",
+      "aliases": [
+        "Sampaio Corrêa",
+        "Sampaio Correa"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/sampaio-correa.png",
+      "verified_asset": false
+    },
+    {
+      "id": "vila-nova",
+      "name": "Vila Nova",
+      "state": "GO",
+      "aliases": [
+        "Vila Nova",
+        "Vila Nova-GO"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/vila-nova.png",
+      "verified_asset": false
+    },
+    {
+      "id": "volta-redonda",
+      "name": "Volta Redonda",
+      "state": "RJ",
+      "aliases": [
+        "Volta Redonda"
+      ],
+      "competition": [
+        "serie_b_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-b/volta-redonda.png",
+      "verified_asset": false
+    }
+  ]
+}
