@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "scope": "brasil",
+  "season": 2026,
+  "policy": {
+    "runtime_hotlink": false,
+    "ambiguous_names": "fallback_text",
+    "source_priority": ["official_club", "CBF", "official_federation"],
+    "asset_format": "png-transparent"
+  },
+  "competitions": {
+    "serie_a": 20,
+    "serie_b": 20,
+    "serie_d": 96,
+    "copa_do_brasil": 126
+  },
+  "status": "inventory_started",
+  "notes": [
+    "Copa do Brasil 2026 e a ancora nacional mais ampla: 126 clubes.",
+    "Serie D 2026 tem 96 clubes.",
+    "Nao associar escudo por sigla ambigua sem contexto de competicao/estado.",
+    "Cada ativo deve ter fonte oficial auditada antes de ser marcado verified."
+  ]
+}
