@@ -4145,7 +4145,47 @@
         "penedense",
         "porto-vitoria"
       ],
-      "notes": "Aliases confirmados foram resolvidos sem duplicar imagens. Ausentes aguardam fonte visual/licenca verificada antes de incorporacao."
+      "notes": "Aliases confirmados foram resolvidos sem duplicar imagens. Ausentes aguardam fonte visual/licenca verificada antes de incorporacao.",
+      "confirmed_external": [
+        "bare",
+        "castanhal",
+        "desportiva-ferroviaria",
+        "penedense"
+      ],
+      "still_pending": [
+        "america-de-propria",
+        "iape",
+        "independente-ap",
+        "ji-parana",
+        "pantanal-saf",
+        "porto-vitoria"
+      ]
+    }
+  },
+  "external_teams": {
+    "bare": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bar%C3%A9EC_logo.png",
+      "source": "Wikimedia Commons",
+      "license": "PD-textlogo/PD-shape; trademark notice",
+      "verified": "2026-10-03"
+    },
+    "castanhal": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Castanhal%20Esporte%20Clube.svg",
+      "source": "Wikimedia Commons",
+      "license": "PD-textlogo/PD-shape; trademark may apply",
+      "verified": "2026-10-03"
+    },
+    "desportiva-ferroviaria": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/EscudoDesportivaFerrovi%C3%A1ria.png",
+      "source": "Wikimedia Commons / Desportiva Ferroviaria",
+      "license": "Attribution; trademark/brand restrictions may apply",
+      "verified": "2026-10-03"
+    },
+    "penedense": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Penedense-AL.png",
+      "source": "Wikimedia Commons / penedense.com.br",
+      "license": "PD-shape; trademark notice",
+      "verified": "2026-10-03"
     }
   }
 }
