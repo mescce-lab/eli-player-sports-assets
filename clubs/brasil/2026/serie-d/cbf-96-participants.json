@@ -1,0 +1,777 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "source": "CBF Serie D 2026 - group situation published 2026-06-05",
+  "count": 96,
+  "groups": 16,
+  "teams": [
+    {
+      "name": "Manauara",
+      "state": "AM",
+      "group": "A1",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Nacional",
+      "state": "AM",
+      "group": "A1",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "São Raimundo",
+      "state": "RR",
+      "group": "A1",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Monte Roraima",
+      "state": "RR",
+      "group": "A1",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Manaus",
+      "state": "AM",
+      "group": "A1",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "GAS",
+      "state": "RR",
+      "group": "A1",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Guaporé",
+      "state": "RO",
+      "group": "A2",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Araguaína",
+      "state": "TO",
+      "group": "A2",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Porto Velho",
+      "state": "RO",
+      "group": "A2",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Independência",
+      "state": "AC",
+      "group": "A2",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Galvez",
+      "state": "AC",
+      "group": "A2",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Humaitá",
+      "state": "AC",
+      "group": "A2",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Gama",
+      "state": "DF",
+      "group": "A3",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Aparecidense",
+      "state": "GO",
+      "group": "A3",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Primavera",
+      "state": "MT",
+      "group": "A3",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Luverdense",
+      "state": "MT",
+      "group": "A3",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Brasiliense",
+      "state": "DF",
+      "group": "A3",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Inhumas",
+      "state": "GO",
+      "group": "A3",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Capital",
+      "state": "DF",
+      "group": "A4",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Goiatuba",
+      "state": "GO",
+      "group": "A4",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Ceilândia",
+      "state": "DF",
+      "group": "A4",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Mixto",
+      "state": "MT",
+      "group": "A4",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "União Rondonópolis",
+      "state": "MT",
+      "group": "A4",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Operário-VG",
+      "state": "MT",
+      "group": "A4",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Águia de Marabá",
+      "state": "PA",
+      "group": "A5",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Trem",
+      "state": "AP",
+      "group": "A5",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Tuna Luso",
+      "state": "PA",
+      "group": "A5",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Imperatriz",
+      "state": "MA",
+      "group": "A5",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Tocantinópolis",
+      "state": "TO",
+      "group": "A5",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Oratório",
+      "state": "AP",
+      "group": "A5",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Iguatu",
+      "state": "CE",
+      "group": "A6",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Maracanã",
+      "state": "CE",
+      "group": "A6",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Sampaio Corrêa-MA",
+      "state": "MA",
+      "group": "A6",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Parnahyba",
+      "state": "PI",
+      "group": "A6",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Moto Club",
+      "state": "MA",
+      "group": "A6",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "IAPE",
+      "state": "MA",
+      "group": "A6",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Ferroviário",
+      "state": "CE",
+      "group": "A7",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Piauí",
+      "state": "PI",
+      "group": "A7",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Fluminense-PI",
+      "state": "PI",
+      "group": "A7",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Tirol",
+      "state": "CE",
+      "group": "A7",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Altos",
+      "state": "PI",
+      "group": "A7",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Atlético-CE",
+      "state": "CE",
+      "group": "A7",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "ABC",
+      "state": "RN",
+      "group": "A8",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "América-RN",
+      "state": "RN",
+      "group": "A8",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Maguary",
+      "state": "PE",
+      "group": "A8",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Sousa",
+      "state": "PB",
+      "group": "A8",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Central",
+      "state": "PE",
+      "group": "A8",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Laguna",
+      "state": "RN",
+      "group": "A8",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Treze",
+      "state": "PB",
+      "group": "A9",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Sergipe",
+      "state": "SE",
+      "group": "A9",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Serra Branca",
+      "state": "PB",
+      "group": "A9",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Lagarto",
+      "state": "SE",
+      "group": "A9",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Retrô",
+      "state": "PE",
+      "group": "A9",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Decisão",
+      "state": "PE",
+      "group": "A9",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "CSA",
+      "state": "AL",
+      "group": "A10",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "ASA",
+      "state": "AL",
+      "group": "A10",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Juazeirense",
+      "state": "BA",
+      "group": "A10",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Jacuipense",
+      "state": "BA",
+      "group": "A10",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "CSE",
+      "state": "AL",
+      "group": "A10",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Atlético-BA",
+      "state": "BA",
+      "group": "A10",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Uberlândia",
+      "state": "MG",
+      "group": "A11",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Betim",
+      "state": "MG",
+      "group": "A11",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "CRAC",
+      "state": "GO",
+      "group": "A11",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Ivinhema",
+      "state": "MS",
+      "group": "A11",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Operário-MS",
+      "state": "MS",
+      "group": "A11",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Abecat",
+      "state": "PR",
+      "group": "A11",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Democrata",
+      "state": "MG",
+      "group": "A12",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Tombense",
+      "state": "MG",
+      "group": "A12",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Vitória-ES",
+      "state": "ES",
+      "group": "A12",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Porto-BA",
+      "state": "BA",
+      "group": "A12",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Rio Branco-ES",
+      "state": "ES",
+      "group": "A12",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Real Noroeste",
+      "state": "ES",
+      "group": "A12",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Portuguesa-SP",
+      "state": "SP",
+      "group": "A13",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Água Santa",
+      "state": "SP",
+      "group": "A13",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Portuguesa-RJ",
+      "state": "RJ",
+      "group": "A13",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "América-RJ",
+      "state": "RJ",
+      "group": "A13",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Madureira",
+      "state": "RJ",
+      "group": "A13",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Pouso Alegre",
+      "state": "MG",
+      "group": "A13",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "XV de Piracicaba",
+      "state": "SP",
+      "group": "A14",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Noroeste",
+      "state": "SP",
+      "group": "A14",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Sampaio Corrêa-RJ",
+      "state": "RJ",
+      "group": "A14",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Maricá",
+      "state": "RJ",
+      "group": "A14",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Velo Clube",
+      "state": "SP",
+      "group": "A14",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Nova Iguaçu",
+      "state": "RJ",
+      "group": "A14",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Santa Catarina",
+      "state": "SC",
+      "group": "A15",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Cascavel",
+      "state": "PR",
+      "group": "A15",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Joinville",
+      "state": "SC",
+      "group": "A15",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Cianorte",
+      "state": "PR",
+      "group": "A15",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "São Luiz",
+      "state": "RS",
+      "group": "A15",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Guarany de Bagé",
+      "state": "RS",
+      "group": "A15",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Blumenau",
+      "state": "SC",
+      "group": "A16",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Marcílio Dias",
+      "state": "SC",
+      "group": "A16",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "São Joseense",
+      "state": "PR",
+      "group": "A16",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "São José",
+      "state": "RS",
+      "group": "A16",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Brasil de Pelotas",
+      "state": "RS",
+      "group": "A16",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    },
+    {
+      "name": "Azuriz",
+      "state": "PR",
+      "group": "A16",
+      "competition": "serie_d_2026",
+      "verified_participant": true,
+      "verified_asset": false
+    }
+  ]
+}
