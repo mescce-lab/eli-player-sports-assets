@@ -1,0 +1,283 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "source": "CBF - Times Campeonato Brasileiro Serie A 2026",
+  "count": 20,
+  "teams": [
+    {
+      "id": "athletico-pr",
+      "name": "Athletico Paranaense",
+      "state": "PR",
+      "aliases": [
+        "Athletico-PR",
+        "Athletico Paranaense"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/athletico-pr.png",
+      "verified_asset": false
+    },
+    {
+      "id": "atletico-mg",
+      "name": "Atlético Mineiro",
+      "state": "MG",
+      "aliases": [
+        "Atlético-MG",
+        "Atletico-MG",
+        "Atlético Mineiro",
+        "Atletico Mineiro"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/atletico-mg.png",
+      "verified_asset": false
+    },
+    {
+      "id": "bahia",
+      "name": "Bahia",
+      "state": "BA",
+      "aliases": [
+        "Bahia"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/bahia.png",
+      "verified_asset": false
+    },
+    {
+      "id": "botafogo-rj",
+      "name": "Botafogo",
+      "state": "RJ",
+      "aliases": [
+        "Botafogo",
+        "Botafogo-RJ"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/botafogo-rj.png",
+      "verified_asset": false
+    },
+    {
+      "id": "chapecoense",
+      "name": "Chapecoense",
+      "state": "SC",
+      "aliases": [
+        "Chapecoense"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/chapecoense.png",
+      "verified_asset": false
+    },
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "state": "SP",
+      "aliases": [
+        "Corinthians"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/corinthians.png",
+      "verified_asset": false
+    },
+    {
+      "id": "coritiba",
+      "name": "Coritiba SAF",
+      "state": "PR",
+      "aliases": [
+        "Coritiba",
+        "Coritiba SAF"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/coritiba.png",
+      "verified_asset": false
+    },
+    {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "state": "MG",
+      "aliases": [
+        "Cruzeiro"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/cruzeiro.png",
+      "verified_asset": false
+    },
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "state": "RJ",
+      "aliases": [
+        "Flamengo"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/flamengo.png",
+      "verified_asset": false
+    },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "state": "RJ",
+      "aliases": [
+        "Fluminense"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/fluminense.png",
+      "verified_asset": false
+    },
+    {
+      "id": "gremio",
+      "name": "Grêmio",
+      "state": "RS",
+      "aliases": [
+        "Grêmio",
+        "Gremio"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/gremio.png",
+      "verified_asset": false
+    },
+    {
+      "id": "internacional",
+      "name": "Internacional",
+      "state": "RS",
+      "aliases": [
+        "Internacional",
+        "Inter"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/internacional.png",
+      "verified_asset": false
+    },
+    {
+      "id": "mirassol",
+      "name": "Mirassol",
+      "state": "SP",
+      "aliases": [
+        "Mirassol"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/mirassol.png",
+      "verified_asset": false
+    },
+    {
+      "id": "palmeiras",
+      "name": "Palmeiras",
+      "state": "SP",
+      "aliases": [
+        "Palmeiras"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/palmeiras.png",
+      "verified_asset": false
+    },
+    {
+      "id": "red-bull-bragantino",
+      "name": "Red Bull Bragantino",
+      "state": "SP",
+      "aliases": [
+        "Red Bull Bragantino",
+        "Bragantino"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/red-bull-bragantino.png",
+      "verified_asset": false
+    },
+    {
+      "id": "remo",
+      "name": "Remo",
+      "state": "PA",
+      "aliases": [
+        "Remo",
+        "Clube do Remo"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/remo.png",
+      "verified_asset": false
+    },
+    {
+      "id": "santos",
+      "name": "Santos FC",
+      "state": "SP",
+      "aliases": [
+        "Santos",
+        "Santos FC"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/santos.png",
+      "verified_asset": false
+    },
+    {
+      "id": "sao-paulo",
+      "name": "São Paulo",
+      "state": "SP",
+      "aliases": [
+        "São Paulo",
+        "Sao Paulo"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/sao-paulo.png",
+      "verified_asset": false
+    },
+    {
+      "id": "vasco",
+      "name": "Vasco da Gama SAF",
+      "state": "RJ",
+      "aliases": [
+        "Vasco",
+        "Vasco da Gama",
+        "Vasco da Gama SAF"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/vasco.png",
+      "verified_asset": false
+    },
+    {
+      "id": "vitoria",
+      "name": "Vitória",
+      "state": "BA",
+      "aliases": [
+        "Vitória",
+        "Vitoria"
+      ],
+      "competition": [
+        "serie_a_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-a/vitoria.png",
+      "verified_asset": false
+    }
+  ]
+}
