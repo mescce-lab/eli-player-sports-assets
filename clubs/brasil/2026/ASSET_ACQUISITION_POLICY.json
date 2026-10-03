@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "scope": "brasil",
+  "season": 2026,
+  "phase": "asset_acquisition",
+  "rules": {
+    "runtime_hotlink": false,
+    "target": "transparent PNG",
+    "preferred_master": "official vector or highest-quality official transparent raster",
+    "never_guess_identity": true,
+    "duplicate_image_check": true
+  },
+  "acquisition_order": [
+    "Serie A",
+    "Serie B",
+    "Serie C",
+    "Serie D",
+    "Copa do Brasil unique clubs",
+    "state competitions unique clubs"
+  ],
+  "validation": [
+    "club identity",
+    "state/context for ambiguous names",
+    "transparent background",
+    "natural crest proportions",
+    "no white plate",
+    "image not shared by different clubs",
+    "source provenance"
+  ],
+  "fallback": "text team name when crest is not verified",
+  "note": "External repositories may be discovery/reference sources only; each crest must be audited before local incorporation."
+}
