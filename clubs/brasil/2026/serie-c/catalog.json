@@ -1,0 +1,192 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "scope": "serie_c",
+  "count": 18,
+  "policy": {
+    "ambiguous_names": "require_state_or_competition_context",
+    "asset_status": "unverified_until_png_audited"
+  },
+  "teams": [
+    {
+      "id": "abc",
+      "name": "ABC",
+      "state": "RN",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/abc.png",
+      "verified_asset": false
+    },
+    {
+      "id": "america-rn",
+      "name": "América-RN",
+      "state": "RN",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/america-rn.png",
+      "verified_asset": false
+    },
+    {
+      "id": "anapolis",
+      "name": "Anápolis",
+      "state": "GO",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/anapolis.png",
+      "verified_asset": false
+    },
+    {
+      "id": "botafogo-pb",
+      "name": "Botafogo-PB",
+      "state": "PB",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/botafogo-pb.png",
+      "verified_asset": false
+    },
+    {
+      "id": "caxias",
+      "name": "Caxias",
+      "state": "RS",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/caxias.png",
+      "verified_asset": false
+    },
+    {
+      "id": "confianca",
+      "name": "Confiança",
+      "state": "SE",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/confianca.png",
+      "verified_asset": false
+    },
+    {
+      "id": "figueirense",
+      "name": "Figueirense",
+      "state": "SC",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/figueirense.png",
+      "verified_asset": false
+    },
+    {
+      "id": "floresta",
+      "name": "Floresta",
+      "state": "CE",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/floresta.png",
+      "verified_asset": false
+    },
+    {
+      "id": "guarani",
+      "name": "Guarani",
+      "state": "SP",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/guarani.png",
+      "verified_asset": false
+    },
+    {
+      "id": "ituano",
+      "name": "Ituano",
+      "state": "SP",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/ituano.png",
+      "verified_asset": false
+    },
+    {
+      "id": "maranhao",
+      "name": "Maranhão",
+      "state": "MA",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/maranhao.png",
+      "verified_asset": false
+    },
+    {
+      "id": "marica",
+      "name": "Maricá",
+      "state": "RJ",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/marica.png",
+      "verified_asset": false
+    },
+    {
+      "id": "nautico",
+      "name": "Náutico",
+      "state": "PE",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/nautico.png",
+      "verified_asset": false
+    },
+    {
+      "id": "portuguesa-sp",
+      "name": "Portuguesa",
+      "state": "SP",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/portuguesa-sp.png",
+      "verified_asset": false
+    },
+    {
+      "id": "santa-cruz",
+      "name": "Santa Cruz",
+      "state": "PE",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/santa-cruz.png",
+      "verified_asset": false
+    },
+    {
+      "id": "sao-bernardo",
+      "name": "São Bernardo",
+      "state": "SP",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/sao-bernardo.png",
+      "verified_asset": false
+    },
+    {
+      "id": "tombense",
+      "name": "Tombense",
+      "state": "MG",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/tombense.png",
+      "verified_asset": false
+    },
+    {
+      "id": "ypiranga-rs",
+      "name": "Ypiranga-RS",
+      "state": "RS",
+      "competition": [
+        "serie_c_2026"
+      ],
+      "asset": "clubs/brasil/2026/serie-c/ypiranga-rs.png",
+      "verified_asset": false
+    }
+  ]
+}
