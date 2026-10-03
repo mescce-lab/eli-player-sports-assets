@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated": "2026-10-03",
+  "policy": "Logomarcas de emissoras usadas nos cards devem ser incorporadas ao repositorio; referencias externas servem apenas para auditoria de origem. Nao usar hotlink no app.",
+  "channels": {
+    "espn": {"file": null, "status": "pending-local-asset", "entity": "ESPN", "aliases": ["espn","espn 2","espn 3","espn 4","espn 5","espn 6"], "note": "Preservar a marca oficial; variantes de canal reutilizam a marca ESPN."},
+    "premiere": {"file": null, "status": "pending-local-asset", "entity": "Premiere", "aliases": ["premiere","premiere clubes"], "note": "Usar a marca brasileira correta, nao homonimos estrangeiros."},
+    "sportv": {"file": null, "status": "pending-local-asset", "entity": "SporTV", "aliases": ["sportv","sportv 2","sportv 3"], "source": "Wikimedia Commons: Logotipo do SporTV (2021).svg", "license": "PD-textlogo; trademark notice"},
+    "globo": {"file": null, "status": "pending-local-asset", "entity": "TV Globo", "aliases": ["globo","tv globo"], "source": "Wikimedia Commons: TV Globo logo (April 2025).svg", "license": "Trademark/third-party rights may apply"},
+    "tnt": {"file": null, "status": "pending-local-asset", "entity": "TNT Sports", "aliases": ["tnt","tnt sports"], "source": "Wikimedia Commons: TNT Sports Logo.svg", "license": "Trademark/third-party rights may apply"},
+    "bandsports": {"file": null, "status": "pending-local-asset", "entity": "BandSports", "aliases": ["bandsports","band sports"], "source": "Wikimedia Commons: Logotipo do BandSports.svg", "license": "PD-textlogo; trademark notice"},
+    "combate": {"file": null, "status": "pending-local-asset", "entity": "Combate", "aliases": ["combate"], "source": "Wikimedia Commons: Combate logo.svg", "license": "PD-textlogo; trademark notice"},
+    "dazn": {"file": null, "status": "pending-local-asset", "entity": "DAZN", "aliases": ["dazn"], "source": "Wikimedia Commons: DAZN logo.svg", "license": "PD-textlogo; trademark notice"}
+  }
+}
