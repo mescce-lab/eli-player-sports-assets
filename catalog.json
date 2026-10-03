@@ -4147,21 +4147,20 @@
         "penedense",
         "porto-vitoria"
       ],
-      "notes": "Aliases confirmados foram resolvidos sem duplicar imagens. Ausentes aguardam fonte visual/licenca verificada antes de incorporacao.",
+      "notes": "126 clubes conferidos. Aliases resolvidos sem duplicar imagens; os 10 ausentes do catálogo-base possuem referência externa verificada, mantendo aviso de direitos/marca quando aplicável.",
       "confirmed_external": [
+        "america-de-propria",
         "bare",
         "castanhal",
         "desportiva-ferroviaria",
-        "penedense"
-      ],
-      "still_pending": [
-        "america-de-propria",
         "iape",
         "independente-ap",
         "ji-parana",
         "pantanal-saf",
+        "penedense",
         "porto-vitoria"
-      ]
+      ],
+      "still_pending": []
     }
   },
   "external_teams": {
@@ -4187,6 +4186,42 @@
       "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Penedense-AL.png",
       "source": "Wikimedia Commons / penedense.com.br",
       "license": "PD-shape; trademark notice",
+      "verified": "2026-10-03"
+    },
+    "america-de-propria": {
+      "url": "https://cdn.freebiesupply.com/logos/large/2x/america-futebol-clube-de-propria-se-logo-png-transparent.png",
+      "source": "FSF/CBF identity cross-check; image mirror Freebie Supply",
+      "license": "remote reference; club trademark/third-party rights may apply",
+      "verified": "2026-10-03"
+    },
+    "iape": {
+      "url": "https://1.bp.blogspot.com/-saZMjcRQ4Ag/YPxlbhKH3jI/AAAAAAAAiLs/rNB_7zHGjsYC2SjCdQqnuKw-QFKHDFdxgCLcBGAsYHQ/s1000/Instituto%2Bde%2BAdministra%25C3%25A7%25C3%25A3o%2Bde%2BProjetos%2BEducacionais%2BFutebol%2BClube%2B-%2BS%25C3%25A3o%2BLu%25C3%25ADs-MA.png",
+      "source": "Escudos de Futebol do Mundo; identity cross-check CBF/FMF 2026",
+      "license": "remote reference; club trademark/third-party rights may apply",
+      "verified": "2026-10-03"
+    },
+    "independente-ap": {
+      "url": "https://www.ogol.com.br/img/logos/equipas/88/3288_logo_independente_ap_20260219162411.png",
+      "source": "oGol 2026; identity cross-check Independente official site/ge",
+      "license": "remote reference; club trademark/third-party rights may apply",
+      "verified": "2026-10-03"
+    },
+    "ji-parana": {
+      "url": "https://s2-ge.glbimg.com/z56Yoy-wUZ1QutjKCCjp3YcmLDE%3D/0x0%3A700x700/600x0/smart/filters%3Agifv%28%29%3Astrip_icc%28%29/s.glbimg.com/es/ge/f/original/2018/02/06/fjc-ji-parana-1.png",
+      "source": "ge; identity cross-check CBF 2026",
+      "license": "remote reference; club trademark/third-party rights may apply",
+      "verified": "2026-10-03"
+    },
+    "pantanal-saf": {
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FC%20Pantanal-MS%20(BRA)%202025.png",
+      "source": "Wikimedia Commons / Futebol Clube Pantanal",
+      "license": "PD-textlogo/PD-shape; trademark notice",
+      "verified": "2026-10-03"
+    },
+    "porto-vitoria": {
+      "url": "https://futebolcapixaba.com/site/wp-content/uploads/2018/09/Porto-Vit%C3%B3ria.png",
+      "source": "Federação de Futebol do Estado do Espírito Santo",
+      "license": "remote reference; club trademark/third-party rights may apply",
       "verified": "2026-10-03"
     }
   }
