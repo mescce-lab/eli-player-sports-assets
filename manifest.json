@@ -35,6 +35,28 @@
     },
     "croatia": {
       "alias": "croacia"
+    },
+    "escocia": {
+      "file": "flags/escocia.svg",
+      "entity": "Scotland",
+      "source": "lipis/flag-icons: gb-sct.svg",
+      "license": "MIT",
+      "status": "approved",
+      "source_url": "https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb-sct.svg"
+    },
+    "scotland": {
+      "alias": "escocia"
+    },
+    "gales": {
+      "file": "flags/gales.svg",
+      "entity": "Wales",
+      "source": "lipis/flag-icons: gb-wls.svg",
+      "license": "MIT",
+      "status": "approved",
+      "source_url": "https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb-wls.svg"
+    },
+    "wales": {
+      "alias": "gales"
     }
   }
 }
