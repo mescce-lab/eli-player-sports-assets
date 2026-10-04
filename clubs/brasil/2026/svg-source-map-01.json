@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "phase": "brazil-svg-source",
+  "source_repository": "JoseArroyave/football-logos",
+  "source_path": "logos/brazil",
+  "source_license": "MIT (repository declaration)",
+  "source_claim": "4400+ SVG team logos organized by country",
+  "confirmed_examples": [
+    {
+      "canonical": "abc",
+      "source_file": "ABC_Futebol_Clube.svg"
+    },
+    {
+      "canonical": "abecat",
+      "source_file": "ABECAT_Ouvidorense.svg"
+    },
+    {
+      "canonical": "asa",
+      "source_file": "ASA_de_Arapiraca.svg"
+    },
+    {
+      "canonical": "amazonas",
+      "source_file": "Amazonas.svg"
+    },
+    {
+      "canonical": "america-rj",
+      "source_file": "America_Football_Club_(RJ).svg"
+    },
+    {
+      "canonical": "america-pe",
+      "source_file": "América-PE.svg"
+    },
+    {
+      "canonical": "america-mg",
+      "source_file": "América_Mineiro.svg"
+    },
+    {
+      "canonical": "america-rn",
+      "source_file": "América_de_Natal.svg"
+    },
+    {
+      "canonical": "anapolis",
+      "source_file": "Anápolis.svg"
+    },
+    {
+      "canonical": "araguaina",
+      "source_file": "Araguaína_Futebol_e_Regatas.svg"
+    },
+    {
+      "canonical": "aparecidense",
+      "source_file": "Associação_Atlética_Aparecidense.svg"
+    },
+    {
+      "canonical": "maguary",
+      "source_file": "Associação_Atlética_Maguary.svg"
+    }
+  ],
+  "conversion_target": {
+    "format": "PNG",
+    "canvas": "512x512",
+    "background": "transparent",
+    "fit": "contain",
+    "preserve_aspect_ratio": true
+  },
+  "status": "source-files-confirmed-not-yet-converted",
+  "rule": "Cross-check identity/state before conversion and publication."
+}
