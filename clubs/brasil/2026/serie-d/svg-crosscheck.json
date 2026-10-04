@@ -1,0 +1,857 @@
+{
+  "schema": 1,
+  "scope": "serie-d-2026",
+  "catalog_entries": 96,
+  "source_svg_count": 218,
+  "summary": {
+    "candidate_unique": 78,
+    "missing": 13,
+    "needs_identity_review": 5
+  },
+  "warning": "Candidate discovery only; participant source itself still requires independent official revalidation before authoritative use. Identity/state and visual asset must be checked before asset_verified=true.",
+  "clubs": [
+    {
+      "name": "Manauara",
+      "state": "AM",
+      "group": "A1",
+      "source_matches": [
+        "Manauara_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Nacional",
+      "state": "AM",
+      "group": "A1",
+      "source_matches": [
+        "Nacional_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "São Raimundo",
+      "state": "RR",
+      "group": "A1",
+      "source_matches": [
+        "São_Raimundo-RR.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Monte Roraima",
+      "state": "RR",
+      "group": "A1",
+      "source_matches": [
+        "Monte_Roraima.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Manaus",
+      "state": "AM",
+      "group": "A1",
+      "source_matches": [
+        "Manaus_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "GAS",
+      "state": "RR",
+      "group": "A1",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Guaporé",
+      "state": "RO",
+      "group": "A2",
+      "source_matches": [
+        "Guaporé_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Araguaína",
+      "state": "TO",
+      "group": "A2",
+      "source_matches": [
+        "Araguaína_Futebol_e_Regatas.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Porto Velho",
+      "state": "RO",
+      "group": "A2",
+      "source_matches": [
+        "Porto_Velho_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Independência",
+      "state": "AC",
+      "group": "A2",
+      "source_matches": [
+        "Independência_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Galvez",
+      "state": "AC",
+      "group": "A2",
+      "source_matches": [
+        "Galvez_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Humaitá",
+      "state": "AC",
+      "group": "A2",
+      "source_matches": [
+        "Sport_Clube_Humaitá.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Gama",
+      "state": "DF",
+      "group": "A3",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Aparecidense",
+      "state": "GO",
+      "group": "A3",
+      "source_matches": [
+        "Associação_Atlética_Aparecidense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Primavera",
+      "state": "MT",
+      "group": "A3",
+      "source_matches": [
+        "Primavera.svg",
+        "Primavera_Atlético_Clube.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "name": "Luverdense",
+      "state": "MT",
+      "group": "A3",
+      "source_matches": [
+        "Luverdense_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Brasiliense",
+      "state": "DF",
+      "group": "A3",
+      "source_matches": [
+        "Brasiliense_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Inhumas",
+      "state": "GO",
+      "group": "A3",
+      "source_matches": [
+        "Inhumas_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Capital",
+      "state": "DF",
+      "group": "A4",
+      "source_matches": [
+        "Capital_Clube_de_Futebol.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Goiatuba",
+      "state": "GO",
+      "group": "A4",
+      "source_matches": [
+        "Goiatuba_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Ceilândia",
+      "state": "DF",
+      "group": "A4",
+      "source_matches": [
+        "Ceilândia_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Mixto",
+      "state": "MT",
+      "group": "A4",
+      "source_matches": [
+        "Mixto_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "União Rondonópolis",
+      "state": "MT",
+      "group": "A4",
+      "source_matches": [
+        "União_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Operário-VG",
+      "state": "MT",
+      "group": "A4",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Águia de Marabá",
+      "state": "PA",
+      "group": "A5",
+      "source_matches": [
+        "Águia_de_Marabá_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Trem",
+      "state": "AP",
+      "group": "A5",
+      "source_matches": [
+        "Trem_Desportivo_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Tuna Luso",
+      "state": "PA",
+      "group": "A5",
+      "source_matches": [
+        "Tuna_Luso_Brasileira.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Imperatriz",
+      "state": "MA",
+      "group": "A5",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Tocantinópolis",
+      "state": "TO",
+      "group": "A5",
+      "source_matches": [
+        "Tocantinópolis_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Oratório",
+      "state": "AP",
+      "group": "A5",
+      "source_matches": [
+        "Oratório_Recreativo_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Iguatu",
+      "state": "CE",
+      "group": "A6",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Maracanã",
+      "state": "CE",
+      "group": "A6",
+      "source_matches": [
+        "Maracanã_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Sampaio Corrêa-MA",
+      "state": "MA",
+      "group": "A6",
+      "source_matches": [
+        "Sampaio_Corrêa_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Parnahyba",
+      "state": "PI",
+      "group": "A6",
+      "source_matches": [
+        "Parnahyba_Sport_Club.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Moto Club",
+      "state": "MA",
+      "group": "A6",
+      "source_matches": [
+        "Moto_Club_de_São_Luís.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "IAPE",
+      "state": "MA",
+      "group": "A6",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Ferroviário",
+      "state": "CE",
+      "group": "A7",
+      "source_matches": [
+        "Ferroviário_Atlético_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Piauí",
+      "state": "PI",
+      "group": "A7",
+      "source_matches": [
+        "Piauí_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Fluminense-PI",
+      "state": "PI",
+      "group": "A7",
+      "source_matches": [
+        "Fluminense.svg",
+        "Fluminense_Esporte_Clube.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "name": "Tirol",
+      "state": "CE",
+      "group": "A7",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Altos",
+      "state": "PI",
+      "group": "A7",
+      "source_matches": [
+        "Associação_Atlética_de_Altos.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Atlético-CE",
+      "state": "CE",
+      "group": "A7",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "ABC",
+      "state": "RN",
+      "group": "A8",
+      "source_matches": [
+        "ABC_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "América-RN",
+      "state": "RN",
+      "group": "A8",
+      "source_matches": [
+        "America_Football_Club_(RJ).svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Maguary",
+      "state": "PE",
+      "group": "A8",
+      "source_matches": [
+        "Associação_Atlética_Maguary.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Sousa",
+      "state": "PB",
+      "group": "A8",
+      "source_matches": [
+        "Sousa_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Central",
+      "state": "PE",
+      "group": "A8",
+      "source_matches": [
+        "Central_Sport_Club.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Laguna",
+      "state": "RN",
+      "group": "A8",
+      "source_matches": [
+        "Clube_Laguna_SAF.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Treze",
+      "state": "PB",
+      "group": "A9",
+      "source_matches": [
+        "Treze_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Sergipe",
+      "state": "SE",
+      "group": "A9",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Serra Branca",
+      "state": "PB",
+      "group": "A9",
+      "source_matches": [
+        "Serra_Branca_EC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Lagarto",
+      "state": "SE",
+      "group": "A9",
+      "source_matches": [
+        "Lagarto_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Retrô",
+      "state": "PE",
+      "group": "A9",
+      "source_matches": [
+        "Retrô_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Decisão",
+      "state": "PE",
+      "group": "A9",
+      "source_matches": [
+        "Decisão_Goiana_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "CSA",
+      "state": "AL",
+      "group": "A10",
+      "source_matches": [
+        "CSA.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "ASA",
+      "state": "AL",
+      "group": "A10",
+      "source_matches": [
+        "ASA_de_Arapiraca.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Juazeirense",
+      "state": "BA",
+      "group": "A10",
+      "source_matches": [
+        "Juazeirense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Jacuipense",
+      "state": "BA",
+      "group": "A10",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "CSE",
+      "state": "AL",
+      "group": "A10",
+      "source_matches": [
+        "CSE.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Atlético-BA",
+      "state": "BA",
+      "group": "A10",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Uberlândia",
+      "state": "MG",
+      "group": "A11",
+      "source_matches": [
+        "Uberlândia_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Betim",
+      "state": "MG",
+      "group": "A11",
+      "source_matches": [
+        "Betim_Futebol.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "CRAC",
+      "state": "GO",
+      "group": "A11",
+      "source_matches": [
+        "CRAC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Ivinhema",
+      "state": "MS",
+      "group": "A11",
+      "source_matches": [
+        "Ivinhema_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Operário-MS",
+      "state": "MS",
+      "group": "A11",
+      "source_matches": [
+        "Operário-MS.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Abecat",
+      "state": "PR",
+      "group": "A11",
+      "source_matches": [
+        "ABECAT_Ouvidorense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Democrata",
+      "state": "MG",
+      "group": "A12",
+      "source_matches": [
+        "Democrata-GV.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Tombense",
+      "state": "MG",
+      "group": "A12",
+      "source_matches": [
+        "Tombense_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Vitória-ES",
+      "state": "ES",
+      "group": "A12",
+      "source_matches": [
+        "Vitória-ES.svg",
+        "Vitória.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "name": "Porto-BA",
+      "state": "BA",
+      "group": "A12",
+      "source_matches": [
+        "Porto-BA.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Rio Branco-ES",
+      "state": "ES",
+      "group": "A12",
+      "source_matches": [
+        "Rio_Branco-ES.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Real Noroeste",
+      "state": "ES",
+      "group": "A12",
+      "source_matches": [
+        "Real_Noroeste.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Portuguesa-SP",
+      "state": "SP",
+      "group": "A13",
+      "source_matches": [
+        "Associação_Atlética_Portuguesa_(RJ).svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Água Santa",
+      "state": "SP",
+      "group": "A13",
+      "source_matches": [
+        "Esporte_Clube_Água_Santa.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Portuguesa-RJ",
+      "state": "RJ",
+      "group": "A13",
+      "source_matches": [
+        "Associação_Atlética_Portuguesa_(RJ).svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "América-RJ",
+      "state": "RJ",
+      "group": "A13",
+      "source_matches": [
+        "America_Football_Club_(RJ).svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Madureira",
+      "state": "RJ",
+      "group": "A13",
+      "source_matches": [
+        "Madureira_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Pouso Alegre",
+      "state": "MG",
+      "group": "A13",
+      "source_matches": [
+        "Pouso_Alegre_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "XV de Piracicaba",
+      "state": "SP",
+      "group": "A14",
+      "source_matches": [
+        "XV_de_Piracicaba.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Noroeste",
+      "state": "SP",
+      "group": "A14",
+      "source_matches": [
+        "Noroeste.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Sampaio Corrêa-RJ",
+      "state": "RJ",
+      "group": "A14",
+      "source_matches": [
+        "Sampaio_Corrêa-RJ.svg",
+        "Sampaio_Corrêa_Futebol_Clube.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "name": "Maricá",
+      "state": "RJ",
+      "group": "A14",
+      "source_matches": [
+        "Maricá_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Velo Clube",
+      "state": "SP",
+      "group": "A14",
+      "source_matches": [
+        "Velo_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Nova Iguaçu",
+      "state": "RJ",
+      "group": "A14",
+      "source_matches": [
+        "Nova_Iguaçu_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Santa Catarina",
+      "state": "SC",
+      "group": "A15",
+      "source_matches": [
+        "Santa_Catarina_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Cascavel",
+      "state": "PR",
+      "group": "A15",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Joinville",
+      "state": "SC",
+      "group": "A15",
+      "source_matches": [
+        "Joinville_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Cianorte",
+      "state": "PR",
+      "group": "A15",
+      "source_matches": [
+        "Cianorte_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "São Luiz",
+      "state": "RS",
+      "group": "A15",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "name": "Guarany de Bagé",
+      "state": "RS",
+      "group": "A15",
+      "source_matches": [
+        "Guarany_de_Bagé.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Blumenau",
+      "state": "SC",
+      "group": "A16",
+      "source_matches": [
+        "Blumenau_Esporte_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Marcílio Dias",
+      "state": "SC",
+      "group": "A16",
+      "source_matches": [
+        "Marcílio_Dias.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "São Joseense",
+      "state": "PR",
+      "group": "A16",
+      "source_matches": [
+        "São_Joseense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "São José",
+      "state": "RS",
+      "group": "A16",
+      "source_matches": [
+        "São_José_EC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "name": "Brasil de Pelotas",
+      "state": "RS",
+      "group": "A16",
+      "source_matches": [
+        "Brasil_de_Pelotas.svg",
+        "Clube_de_Regatas_Brasil.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "name": "Azuriz",
+      "state": "PR",
+      "group": "A16",
+      "source_matches": [
+        "Azuriz_FC.svg"
+      ],
+      "status": "candidate_unique"
+    }
+  ]
+}
