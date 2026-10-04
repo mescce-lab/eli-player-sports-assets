@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "season": 2026,
+  "scope": "brasil-master",
+  "authoritative_basis": {
+    "copa_do_brasil": "CBF official 2026 participants list - 126 clubs",
+    "serie_d": "CBF official 2026 groups - 96 clubs"
+  },
+  "asset_delivery": {
+    "format": "png",
+    "background": "transparent",
+    "runtime_hotlink": false,
+    "repository_root": "clubs/brasil/",
+    "filename_rule": "stable canonical id, lowercase ASCII, hyphenated"
+  },
+  "identity_rules": {
+    "state_required_for_ambiguous_names": true,
+    "never_guess_from_abbreviation": true,
+    "fallback_when_unverified": "team name text",
+    "examples": [
+      "vasco-da-gama-rj vs vasco-da-gama-ac",
+      "portuguesa-sp vs portuguesa-rj",
+      "sampaio-correa-ma vs sampaio-correa-rj",
+      "operario-pr vs operario-ms vs operario-vg-mt",
+      "fluminense-rj vs fluminense-pi"
+    ]
+  },
+  "workflow": [
+    "build canonical identity list",
+    "resolve aliases",
+    "obtain crest master",
+    "normalize transparent PNG without changing natural proportions",
+    "visual identity audit",
+    "duplicate-image/hash audit",
+    "publish to sports-assets repository",
+    "mark asset_verified true"
+  ]
+}
