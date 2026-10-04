@@ -1,0 +1,609 @@
+{
+  "schema": 1,
+  "scope": "series-a-b-c-2026",
+  "catalog_entries": 58,
+  "source_svg_count": 218,
+  "summary": {
+    "candidate_unique": 45,
+    "needs_identity_review": 12,
+    "missing": 1
+  },
+  "warning": "Filename matching is candidate discovery only. State/club identity must be confirmed before asset_verified=true.",
+  "clubs": [
+    {
+      "id": "athletico-pr",
+      "name": "Athletico Paranaense",
+      "state": "PR",
+      "division": "A",
+      "source_matches": [
+        "Athletico_Paranaense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "atletico-mg",
+      "name": "Atlético Mineiro",
+      "state": "MG",
+      "division": "A",
+      "source_matches": [
+        "Atlético_Mineiro.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "bahia",
+      "name": "Bahia",
+      "state": "BA",
+      "division": "A",
+      "source_matches": [
+        "Bahia.svg",
+        "Bahia_de_Feira.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "botafogo-rj",
+      "name": "Botafogo",
+      "state": "RJ",
+      "division": "A",
+      "source_matches": [
+        "Botafogo_FR.svg",
+        "Botafogo_PB.svg",
+        "Botafogo_SP.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "chapecoense",
+      "name": "Chapecoense",
+      "state": "SC",
+      "division": "A",
+      "source_matches": [
+        "Chapecoense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "state": "SP",
+      "division": "A",
+      "source_matches": [
+        "Corinthians.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "coritiba",
+      "name": "Coritiba SAF",
+      "state": "PR",
+      "division": "A",
+      "source_matches": [
+        "Coritiba.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "state": "MG",
+      "division": "A",
+      "source_matches": [
+        "Cruzeiro.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "state": "RJ",
+      "division": "A",
+      "source_matches": [
+        "Flamengo.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "state": "RJ",
+      "division": "A",
+      "source_matches": [
+        "Fluminense.svg",
+        "Fluminense_Esporte_Clube.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "gremio",
+      "name": "Grêmio",
+      "state": "RS",
+      "division": "A",
+      "source_matches": [
+        "Grêmio.svg",
+        "Grêmio_Atlético_Sampaio_(GAS).svg",
+        "Grêmio_Novorizontino.svg",
+        "Grêmio_Prudente.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "internacional",
+      "name": "Internacional",
+      "state": "RS",
+      "division": "A",
+      "source_matches": [
+        "Inter_de_Limeira.svg",
+        "Internacional.svg",
+        "Internacional_de_Lages.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "mirassol",
+      "name": "Mirassol",
+      "state": "SP",
+      "division": "A",
+      "source_matches": [
+        "Mirassol.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "palmeiras",
+      "name": "Palmeiras",
+      "state": "SP",
+      "division": "A",
+      "source_matches": [
+        "Palmeiras.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "red-bull-bragantino",
+      "name": "Red Bull Bragantino",
+      "state": "SP",
+      "division": "A",
+      "source_matches": [],
+      "status": "missing"
+    },
+    {
+      "id": "remo",
+      "name": "Remo",
+      "state": "PA",
+      "division": "A",
+      "source_matches": [
+        "Clube_do_Remo.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "santos",
+      "name": "Santos FC",
+      "state": "SP",
+      "division": "A",
+      "source_matches": [
+        "Santos_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "sao-paulo",
+      "name": "São Paulo",
+      "state": "SP",
+      "division": "A",
+      "source_matches": [
+        "São_Paulo.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "vasco",
+      "name": "Vasco da Gama SAF",
+      "state": "RJ",
+      "division": "A",
+      "source_matches": [
+        "Vasco_da_Gama.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "vitoria",
+      "name": "Vitória",
+      "state": "BA",
+      "division": "A",
+      "source_matches": [
+        "Vitória-ES.svg",
+        "Vitória.svg",
+        "Vitória_da_Conquista.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "america-mg",
+      "name": "América-MG",
+      "state": "MG",
+      "division": "B",
+      "source_matches": [
+        "America_Football_Club_(RJ).svg",
+        "América_Mineiro.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "athletic-mg",
+      "name": "Athletic Club",
+      "state": "MG",
+      "division": "B",
+      "source_matches": [
+        "Athletic.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "atletico-go",
+      "name": "Atlético-GO",
+      "state": "GO",
+      "division": "B",
+      "source_matches": [
+        "Atlético_Goianiense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "avai",
+      "name": "Avaí",
+      "state": "SC",
+      "division": "B",
+      "source_matches": [
+        "Avai.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "botafogo-sp",
+      "name": "Botafogo-SP",
+      "state": "SP",
+      "division": "B",
+      "source_matches": [
+        "Botafogo_SP.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "brusque",
+      "name": "Brusque",
+      "state": "SC",
+      "division": "B",
+      "source_matches": [
+        "Brusque.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "ceara",
+      "name": "Ceará",
+      "state": "CE",
+      "division": "B",
+      "source_matches": [
+        "Ceará.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "crb",
+      "name": "CRB",
+      "state": "AL",
+      "division": "B",
+      "source_matches": [
+        "Brasil_de_Pelotas.svg",
+        "Clube_de_Regatas_Brasil.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "criciuma",
+      "name": "Criciúma",
+      "state": "SC",
+      "division": "B",
+      "source_matches": [
+        "Criciúma.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "cuiaba",
+      "name": "Cuiabá",
+      "state": "MT",
+      "division": "B",
+      "source_matches": [
+        "Cuiabá.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "goias",
+      "name": "Goiás",
+      "state": "GO",
+      "division": "B",
+      "source_matches": [
+        "Goiás.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "juventude",
+      "name": "Juventude",
+      "state": "RS",
+      "division": "B",
+      "source_matches": [
+        "Juventude.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "londrina",
+      "name": "Londrina",
+      "state": "PR",
+      "division": "B",
+      "source_matches": [
+        "Londrina.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "novorizontino",
+      "name": "Novorizontino",
+      "state": "SP",
+      "division": "B",
+      "source_matches": [
+        "Grêmio.svg",
+        "Grêmio_Novorizontino.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "operario-pr",
+      "name": "Operário-PR",
+      "state": "PR",
+      "division": "B",
+      "source_matches": [
+        "Operário_Ferroviário.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "paysandu",
+      "name": "Paysandu",
+      "state": "PA",
+      "division": "B",
+      "source_matches": [
+        "Paysandu.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "ponte-preta",
+      "name": "Ponte Preta",
+      "state": "SP",
+      "division": "B",
+      "source_matches": [
+        "Ponte_Preta.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "sampaio-correa",
+      "name": "Sampaio Corrêa",
+      "state": "MA",
+      "division": "B",
+      "source_matches": [
+        "Sampaio_Corrêa-RJ.svg",
+        "Sampaio_Corrêa_Futebol_Clube.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "vila-nova",
+      "name": "Vila Nova",
+      "state": "GO",
+      "division": "B",
+      "source_matches": [
+        "Vila_Nova.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "volta-redonda",
+      "name": "Volta Redonda",
+      "state": "RJ",
+      "division": "B",
+      "source_matches": [
+        "Volta_Redonda.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "abc",
+      "name": "ABC",
+      "state": "RN",
+      "division": "C",
+      "source_matches": [
+        "ABC_Futebol_Clube.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "america-rn",
+      "name": "América-RN",
+      "state": "RN",
+      "division": "C",
+      "source_matches": [
+        "America_Football_Club_(RJ).svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "anapolis",
+      "name": "Anápolis",
+      "state": "GO",
+      "division": "C",
+      "source_matches": [
+        "Anápolis.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "botafogo-pb",
+      "name": "Botafogo-PB",
+      "state": "PB",
+      "division": "C",
+      "source_matches": [
+        "Botafogo_PB.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "caxias",
+      "name": "Caxias",
+      "state": "RS",
+      "division": "C",
+      "source_matches": [
+        "Caxias.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "confianca",
+      "name": "Confiança",
+      "state": "SE",
+      "division": "C",
+      "source_matches": [
+        "Confiança.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "figueirense",
+      "name": "Figueirense",
+      "state": "SC",
+      "division": "C",
+      "source_matches": [
+        "Figueirense.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "floresta",
+      "name": "Floresta",
+      "state": "CE",
+      "division": "C",
+      "source_matches": [
+        "Floresta.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "guarani",
+      "name": "Guarani",
+      "state": "SP",
+      "division": "C",
+      "source_matches": [
+        "Guarani-MG.svg",
+        "Guarani.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "ituano",
+      "name": "Ituano",
+      "state": "SP",
+      "division": "C",
+      "source_matches": [
+        "Ituano.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "maranhao",
+      "name": "Maranhão",
+      "state": "MA",
+      "division": "C",
+      "source_matches": [
+        "Maranhão.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "marica",
+      "name": "Maricá",
+      "state": "RJ",
+      "division": "C",
+      "source_matches": [
+        "Maricá_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "nautico",
+      "name": "Náutico",
+      "state": "PE",
+      "division": "C",
+      "source_matches": [
+        "Náutico.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "portuguesa-sp",
+      "name": "Portuguesa",
+      "state": "SP",
+      "division": "C",
+      "source_matches": [
+        "Associação_Atlética_Portuguesa_(RJ).svg",
+        "Associação_Portuguesa_de_Desportos.svg"
+      ],
+      "status": "needs_identity_review"
+    },
+    {
+      "id": "santa-cruz",
+      "name": "Santa Cruz",
+      "state": "PE",
+      "division": "C",
+      "source_matches": [
+        "Santa_Cruz.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "sao-bernardo",
+      "name": "São Bernardo",
+      "state": "SP",
+      "division": "C",
+      "source_matches": [
+        "São_Bernardo.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "tombense",
+      "name": "Tombense",
+      "state": "MG",
+      "division": "C",
+      "source_matches": [
+        "Tombense_FC.svg"
+      ],
+      "status": "candidate_unique"
+    },
+    {
+      "id": "ypiranga-rs",
+      "name": "Ypiranga-RS",
+      "state": "RS",
+      "division": "C",
+      "source_matches": [
+        "Ypiranga.svg"
+      ],
+      "status": "candidate_unique"
+    }
+  ]
+}
