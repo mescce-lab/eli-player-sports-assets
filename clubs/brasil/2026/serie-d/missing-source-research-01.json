@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "scope": "serie-d-2026-missing-source-research",
+  "resolved_identity": [
+    {
+      "name": "GAS",
+      "state": "RR",
+      "canonical": "Grêmio Atlético Sampaio",
+      "evidence": "official club site",
+      "url": "https://gremioatleticosampaio.com/historia/",
+      "asset_verified": false
+    },
+    {
+      "name": "IAPE",
+      "state": "MA",
+      "canonical": "Instituto de Administração de Projetos Educacionais Futebol Clube",
+      "evidence": "official club site + CBF team page",
+      "url": "https://iapefc.com.br/",
+      "asset_verified": false
+    },
+    {
+      "name": "Operário-VG",
+      "state": "MT",
+      "canonical": "Clube Esportivo Operário Várzea-grandense",
+      "evidence": "identity distinction documented; requires current crest acquisition",
+      "asset_verified": false
+    },
+    {
+      "name": "Atlético-CE",
+      "state": "CE",
+      "canonical": "Futebol Clube Atlético Cearense",
+      "evidence": "current identity resolved; requires crest master",
+      "asset_verified": false
+    }
+  ],
+  "official_participant_check": {
+    "competition": "Campeonato Brasileiro Série D 2026",
+    "source": "CBF official participant annex",
+    "confirmed_examples": [
+      "Grêmio Atlético Sampaio - GAS/RR",
+      "IAPE/MA",
+      "Esporte Clube São Luiz/RS"
+    ],
+    "note": "Continue full-list validation before replacing the existing working participant file."
+  },
+  "status": "identity-resolved-assets-pending"
+}
