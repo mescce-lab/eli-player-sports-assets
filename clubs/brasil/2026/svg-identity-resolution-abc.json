@@ -1,0 +1,105 @@
+{
+  "schema": 1,
+  "scope": "series-a-b-c-2026",
+  "resolved_count": 12,
+  "resolution_basis": "Disambiguation of source filenames using canonical club identity and state context from the existing catalog.",
+  "important": "This resolves source identity only. It does not certify visual correctness or published PNG.",
+  "clubs": [
+    {
+      "id": "bahia",
+      "name": "Bahia",
+      "state": "BA",
+      "selected_source": "Bahia.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "botafogo-rj",
+      "name": "Botafogo",
+      "state": "RJ",
+      "selected_source": "Botafogo_FR.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "state": "RJ",
+      "selected_source": "Fluminense.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "gremio",
+      "name": "Grêmio",
+      "state": "RS",
+      "selected_source": "Grêmio.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "internacional",
+      "name": "Internacional",
+      "state": "RS",
+      "selected_source": "Internacional.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "vitoria",
+      "name": "Vitória",
+      "state": "BA",
+      "selected_source": "Vitória.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "america-mg",
+      "name": "América-MG",
+      "state": "MG",
+      "selected_source": "América_Mineiro.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "crb",
+      "name": "CRB",
+      "state": "AL",
+      "selected_source": "Clube_de_Regatas_Brasil.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "novorizontino",
+      "name": "Novorizontino",
+      "state": "SP",
+      "selected_source": "Grêmio_Novorizontino.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "sampaio-correa",
+      "name": "Sampaio Corrêa",
+      "state": "MA",
+      "selected_source": "Sampaio_Corrêa_Futebol_Clube.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "guarani",
+      "name": "Guarani",
+      "state": "SP",
+      "selected_source": "Guarani.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "id": "portuguesa-sp",
+      "name": "Portuguesa",
+      "state": "SP",
+      "selected_source": "Associação_Portuguesa_de_Desportos.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    }
+  ]
+}
