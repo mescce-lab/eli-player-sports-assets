@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "source_repository": "JoseArroyave/football-logos",
+  "source_directory": "logos/brazil",
+  "confirmed_svg_files": 218,
+  "verified_by": "GitHub recursive tree count",
+  "conversion_plan": {
+    "output": "PNG",
+    "size": "512x512",
+    "transparent": true,
+    "fit": "contain",
+    "preserve_aspect_ratio": true
+  },
+  "next_validation": "cross-reference the 218 source filenames against canonical 2026 Brazil inventory; unresolved ambiguous identities remain excluded",
+  "status": "source_inventory_counted"
+}
