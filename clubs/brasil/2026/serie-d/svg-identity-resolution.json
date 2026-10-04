@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "scope": "serie-d-2026",
+  "resolved_count": 5,
+  "important": "Source identity resolved; participant status and visual asset remain separately auditable.",
+  "clubs": [
+    {
+      "name": "Primavera",
+      "state": "MT",
+      "group": "A3",
+      "selected_source": "Primavera_Atlético_Clube.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "name": "Fluminense-PI",
+      "state": "PI",
+      "group": "A7",
+      "selected_source": "Fluminense_Esporte_Clube.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "name": "Vitória-ES",
+      "state": "ES",
+      "group": "A12",
+      "selected_source": "Vitória-ES.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "name": "Sampaio Corrêa-RJ",
+      "state": "RJ",
+      "group": "A14",
+      "selected_source": "Sampaio_Corrêa-RJ.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    },
+    {
+      "name": "Brasil de Pelotas",
+      "state": "RS",
+      "group": "A16",
+      "selected_source": "Brasil_de_Pelotas.svg",
+      "identity_resolution": "name_and_state_context",
+      "asset_verified": false
+    }
+  ]
+}
